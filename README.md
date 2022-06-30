@@ -1,5 +1,7 @@
 # Arco 物料 Monorepo
 
+[共建指南](/docs/contribute.md)
+
 [物料平台文档中心](https://arco.design/docs/material/guide)
 
 **此项目依赖 `yarn` 和 `lerna`，请确保你已全局安装这两个包。**
